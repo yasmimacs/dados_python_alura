@@ -1,3 +1,5 @@
 # Dashboard com Streamlit <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/streamlit-icon.png" width="40" height="40">
 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFianpraHprcW1kaGZ6NnIyM3p1Mzl4OGszZmd5ZG95YjE3ejJkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UMRJwJdU7uUTyroDCP/giphy.gif">
+
 ### Link do app: https://dadospythonalura-yasmim-santos.streamlit.app/
